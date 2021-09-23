@@ -25,7 +25,7 @@ Then we define routes for handling all CRUD operations (including custom finder)
 
 ## Installation
 ***
-$ git clone https://github.com/vishal6108/RestAPICurd.git
+$ git clone https://github.com/vishal6108/SCHOOLWEBAPI.git
 $ cd ../path/to/the/file
 $ npm install express knex bookshelf pg --save
 
